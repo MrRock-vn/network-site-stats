@@ -4,7 +4,7 @@
  * Plugin URI:   https://github.com/example/network-site-stats
  * Description:  Hiển thị thống kê tổng quan các site con trong mạng lưới WordPress Multisite. Dành cho Super Admin.
  * Version:      1.0.0
- * Author:       Cấn Đức Điệp
+ * Author:       Nguyễn Công Sơn
  * Network:      true
  * Text Domain:  network-site-stats
  * Domain Path:  /languages
